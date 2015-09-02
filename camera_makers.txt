@@ -1,6 +1,0 @@
-canon	33588354
-nikon	19128293
-sony	7357904
-panasonic	4942834
-apple	3658455
-olympus	3433094
